@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+
+
+/*bacbutton css*/
+
+ion-header-bar.bar-header > button.back-button {
+    width: 18vw;
+}
+
+ion-header-bar.bar-header > button.back-button >i.icon {
+    margin-left: -10vw;
+}
+
+ion-header-bar.bar-header > div.title {
+    left: 18vw;
+}
